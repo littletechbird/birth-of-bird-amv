@@ -9,7 +9,7 @@ All URLs below are intended for public citation. No private Drive vaults, no aut
 | What | URL |
 |------|-----|
 | YouTube long-form | https://youtu.be/IRLTiLIKit4 |
-| X proof post | TBD |
+| X proof post | https://x.com/littletechbird/status/2099490183838081199 |
 | YouTube channel (id form) | https://www.youtube.com/channel/UCfpdyNssccWVX326jysCXag |
 | YouTube channel (@ form) | https://www.youtube.com/@littletechbird |
 | X account | https://x.com/littletechbird |

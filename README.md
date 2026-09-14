@@ -17,7 +17,7 @@ Video/audio binaries are **not** in this repo (too large). This pack is the fore
 | What | Link |
 |------|------|
 | **YouTube long-form** | https://youtu.be/IRLTiLIKit4 |
-| **X post** | TBD |
+| **X post** | https://x.com/littletechbird/status/2099490183838081199 |
 | **SoundCloud playlist** | https://soundcloud.com/littletechbird/sets/littletechbird-and-hatch |
 | **SoundCloud track** | https://soundcloud.com/littletechbird/birth-of-bird |
 | Channel | https://www.youtube.com/channel/UCfpdyNssccWVX326jysCXag |
